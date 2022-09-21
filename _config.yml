@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "About"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : "여권용 사진.jpg"
   bio              : "I am interested in **clay particle transport in porous media** for the sustainability of geotechnical infrastructure."
   location         : "Korea University, 145 Anam-ro, Seoul, 02841, South Korea"
   email            : "romio0728@korea.ac.kr"
